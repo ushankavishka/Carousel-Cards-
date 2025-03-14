@@ -15,7 +15,7 @@ A responsive **carousel card** component built using **HTML**, **CSS**, and **Ja
 ## 📸 Screenshots  
 | Carousel Display |  
 |------------------|  
-| ![Carousel](screenshots/carousel-display.png) |  
+| ![Carousel](screenshots/carousel.png) |  
 
 ## 🎯 How to Use  
 1️⃣ **Clone the Repository**  
